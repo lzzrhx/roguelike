@@ -1,5 +1,8 @@
 # Roguelike
 
+> [!WARNING]
+> Repository moved to https://codeberg.org/lzzrhx/roguelike
+
 A 3D roguelike project made with Raylib, ImGui and the C# programming language.
 
 > [!TIP]
